@@ -4,6 +4,14 @@ Toutes les versions notables de Aldes Bridge Add-on.
 
 Format basé sur [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.14.3] — 2026-09-16
+
+### Ajouté
+- **Backend** : nettoyage automatique des consignes après 2 rejets — évite les consignes bloquées indéfiniment en `confirmed: false`
+- **Backend** : compteur `attempts` dans la structure `_consignes` pour tracer le nombre de tentatives avant désactivation
+- **Frontend** : affichage du compteur de tentatives (ex: `demandé 22.0 °C (tentative 1/2)`) dans le panneau températures
+- **Frontend** : champ `attempts` ajouté au type `consigne inline`
+
 ## [0.14.2-beta2] — 2026-09-10
 
 ### Ajouté
