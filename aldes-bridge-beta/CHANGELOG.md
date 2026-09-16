@@ -4,6 +4,11 @@ Toutes les versions notables de Aldes Bridge Add-on.
 
 Format basé sur [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.15.0-beta2] — 2026-09-16
+
+### Corrigé
+- **Backend** : exclusion des zones avec température ET consigne à 0 de la détection des zones actives — évite les sensors fantômes
+
 ## [0.15.0-beta1] — 2026-09-16
 
 ### Ajouté
