@@ -4,6 +4,11 @@ Toutes les versions notables de Aldes Bridge Add-on.
 
 Format basé sur [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.15.0-beta3] — 2026-09-16
+
+### Corrigé
+- **Backend** : forcer le nettoyage de toutes les zones 0-9 inactives à chaque cycle discovery (climats + sensors) — élimine les entités phantom qui persistent après une mise à jour
+
 ## [0.15.0-beta2] — 2026-09-16
 
 ### Corrigé
