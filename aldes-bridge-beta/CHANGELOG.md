@@ -4,7 +4,7 @@ Toutes les versions notables de Aldes Bridge Add-on.
 
 Format basé sur [Keep a Changelog](https://keepachangelog.com/).
 
-## [0.14.3] — 2026-09-16
+## [0.14.5] — 2026-09-16
 
 ### Ajouté
 - **Backend** : nettoyage automatique des consignes après 2 rejets — évite les consignes bloquées indéfiniment en `confirmed: false`
