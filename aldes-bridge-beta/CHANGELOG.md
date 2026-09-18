@@ -6,7 +6,9 @@ Format basé sur [Keep a Changelog](https://keepachangelog.com/).
 
 ## [0.16.0] — 2026-09-18
 
-### Bump v0.16.0
+### UPdate
+- Bump v0.16.0
+- Add VMC DeeFly Cube profile
   
 ## [0.15.0-beta7] — 2026-09-17
 
