@@ -4,11 +4,15 @@ Toutes les versions notables de Aldes Bridge Add-on.
 
 Format basé sur [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.16.0] — 2026-09-18
+
+### Bump v0.16.0
+  
 ## [0.15.0-beta7] — 2026-09-17
 
 ### Ajouté
 - **Backend** : DeeFly-Cube profile update
-- 
+  
 ## [0.15.0-beta6] — 2026-09-17
 
 ### Ajouté
