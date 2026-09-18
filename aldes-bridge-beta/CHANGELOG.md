@@ -4,7 +4,7 @@ Toutes les versions notables de Aldes Bridge Add-on.
 
 Format basé sur [Keep a Changelog](https://keepachangelog.com/).
 
-## [0.16.0] — 2026-09-18
+## [0.16.0beta1] — 2026-09-18
 
 ### UPdate
 - Bump v0.16.0
