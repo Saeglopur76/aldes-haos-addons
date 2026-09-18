@@ -4,12 +4,16 @@ Toutes les versions notables de Aldes Bridge Add-on.
 
 Format basé sur [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.16.0beta3] — 2026-09-18
+
+### Corrigé
+- correction erreur indentation aldes.py line 265
+  
 ## [0.16.0beta2] — 2026-09-18
 
-### UPdate
+### MaJ
 - Bump v0.16.0
-- Add VMC DeeFly Cube profile
-- fix missing VmcPanel.tsx file
+- Ajouté profil VMC DeeFly Cube
   
 ## [0.15.0-beta7] — 2026-09-17
 
