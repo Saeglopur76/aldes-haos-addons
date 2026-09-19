@@ -4,6 +4,10 @@ Toutes les versions notables de Aldes Bridge Add-on.
 
 Format basé sur [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.16.0beta5] — 2026-09-19
+
+### Ajouté
+- exposition et controles dans HA
 
 ## [0.16.0beta4] — 2026-09-18
 
