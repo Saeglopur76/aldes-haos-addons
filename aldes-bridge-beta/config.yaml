@@ -1,6 +1,6 @@
 ---
 name: Aldes Bridge Beta
-version: "0.16.0beta4"
+version: "0.16.0beta5"
 slug: aldes-bridge-beta
 description: Bridge MQTT/TLS pour Aldes T.ONE AquaAir & DeeFly Cube — version beta avec auto-discovery HA
 url: https://github.com/saeglopur76/aldes-bridge
